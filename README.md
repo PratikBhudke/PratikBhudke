@@ -5,9 +5,7 @@
 ## 👨‍💻 About Me
 - 🎓 **BE in Information Technology**
 - 💻 **Tech Enthusiast & Problem Solver**
-- 🌱 Currently learning **Microservices & Cloud Computing**
 - 🎯 Focused on building robust **backend systems & scalable frontend architectures**
-- ⚡ Fun fact: I love automating things and exploring **AI & ML** concepts
 
 ---
 
